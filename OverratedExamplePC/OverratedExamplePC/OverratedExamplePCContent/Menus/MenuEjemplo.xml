@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="OverratedEngine.GUI.Container" >
+    <Left>0</Left>
+    <Top>0</Top>
+    <Width>800</Width>
+    <Height>480</Height>
+    <Controls>
+      <Item Type = "OverratedEngine.GUI.Image">
+        <Left>0</Left>
+        <Top>0</Top>
+        <Width>196</Width>
+        <Height>173</Height>
+        <BackTextureName>Interfaz\Logo</BackTextureName>
+      </Item>
+      <Item Type = "OverratedEngine.GUI.Label">
+        <Left>200</Left>
+        <Top>20</Top>
+        <Width>0</Width>
+        <Height>0</Height>
+        <Text>Overrated Engine</Text>
+        <FontName>Fuentes\Fuente</FontName>
+        <TextColor>FFBDB76B</TextColor>
+      </Item>
+      <Item Type="OverratedEngine.GUI.Button">
+        <Left>300</Left>
+        <Top>420</Top>
+        <Width>200</Width>
+        <Height>40</Height>
+        <Name>BotonSiguiente</Name>        
+        <BackTextureName>Interfaz\Boton</BackTextureName>
+        <Text>Siguiente</Text>
+        <FontName>Fuentes\Fuente</FontName>
+        <TextColor>FFFFFFFF</TextColor>
+        <PressedTextureName>Interfaz\BotonPulsado</PressedTextureName>
+      </Item>
+      <Item Type="OverratedEngine.GUI.Button">
+        <Left>30</Left>
+        <Top>350</Top>
+        <Width>200</Width>
+        <Height>40</Height>
+        <Name>BotonMover</Name>
+        <BackTextureName>Interfaz\Boton</BackTextureName>
+        <Text>Púlsame</Text>
+        <FontName>Fuentes\Fuente</FontName>
+        <TextColor>FFFFFFFF</TextColor>
+        <PressedTextureName>Interfaz\BotonPulsado</PressedTextureName>
+      </Item>
+      <Item Type = "OverratedEngine.GUI.MultilineTextControl">
+        <Left>100</Left>
+        <Top>60</Top>
+        <Width>600</Width>
+        <Height>240</Height>        
+        <BackTextureName>Interfaz\Panel</BackTextureName>
+        <Text>Menú de ejemplo.
+        Este es un menú de ejemplo realizado totalmente en XML, a excepción de las acciones y transiciones de los botones.</Text>
+        <FontName>Fuentes\Fuente</FontName>
+        <TextColor>FFFFFFFF</TextColor>
+        <TopSpace>10</TopSpace>
+        <LeftSpace>30</LeftSpace>
+      </Item>      
+    </Controls>
+  </Asset>
+</XnaContent>
