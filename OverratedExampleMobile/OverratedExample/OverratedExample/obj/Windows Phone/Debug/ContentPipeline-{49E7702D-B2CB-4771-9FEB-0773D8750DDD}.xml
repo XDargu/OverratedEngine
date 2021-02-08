@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Ball.png</Source>
+      <Name>Ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExample\bin\Windows Phone\Debug\Content\Ball.xnb</Output>
+      <Time>2012-06-12T03:49:17.1171012+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fondo.png</Source>
+      <Name>Fondo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExample\bin\Windows Phone\Debug\Content\Fondo.xnb</Output>
+      <Time>2012-06-11T04:26:27.2982083+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FondoParallax2.png</Source>
+      <Name>FondoParallax2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExample\bin\Windows Phone\Debug\Content\FondoParallax2.xnb</Output>
+      <Time>2012-06-14T05:20:55.1011626+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Nodo.png</Source>
+      <Name>Nodo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExample\bin\Windows Phone\Debug\Content\Nodo.xnb</Output>
+      <Time>2012-06-12T06:50:08.0097368+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Blanco.png</Source>
+      <Name>Blanco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExample\bin\Windows Phone\Debug\Content\Blanco.xnb</Output>
+      <Time>2012-06-12T07:16:31.7293204+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Seguidor.png</Source>
+      <Name>Seguidor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExample\bin\Windows Phone\Debug\Content\Seguidor.xnb</Output>
+      <Time>2012-06-14T00:14:47.0405696+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Interfaz\Boton.png</Source>
+      <Name>Interfaz\Boton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExample\bin\Windows Phone\Debug\Content\Interfaz\Boton.xnb</Output>
+      <Time>2012-06-12T19:04:19.7123501+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Interfaz\BotonPulsado.png</Source>
+      <Name>Interfaz\BotonPulsado</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExample\bin\Windows Phone\Debug\Content\Interfaz\BotonPulsado.xnb</Output>
+      <Time>2012-06-12T19:04:42.0366269+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Interfaz\Panel.png</Source>
+      <Name>Interfaz\Panel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExample\bin\Windows Phone\Debug\Content\Interfaz\Panel.xnb</Output>
+      <Time>2012-06-12T19:29:02.4281565+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Interfaz\Logo.png</Source>
+      <Name>Interfaz\Logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExample\bin\Windows Phone\Debug\Content\Interfaz\Logo.xnb</Output>
+      <Time>2012-06-12T23:14:22.7824766+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FondoParallax1.png</Source>
+      <Name>FondoParallax1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExample\bin\Windows Phone\Debug\Content\FondoParallax1.xnb</Output>
+      <Time>2012-06-14T05:32:53.4902521+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FondoParallax0.png</Source>
+      <Name>FondoParallax0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExample\bin\Windows Phone\Debug\Content\FondoParallax0.xnb</Output>
+      <Time>2012-06-14T05:32:34.1011431+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario.png</Source>
+      <Name>Mario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExample\bin\Windows Phone\Debug\Content\Mario.xnb</Output>
+      <Time>2012-06-14T05:45:10.7624216+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\Fuente.spritefont</Source>
+      <Name>Fuentes\Fuente</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExample\bin\Windows Phone\Debug\Content\Fuentes\Fuente.xnb</Output>
+      <Time>2012-06-12T19:31:35.5819164+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MenuAStar.xml</Source>
+      <Name>Menus\MenuAStar</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExample\bin\Windows Phone\Debug\Content\Menus\MenuAStar.xnb</Output>
+      <Time>2012-06-14T00:31:51.6441736+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MenuEjemplo.xml</Source>
+      <Name>Menus\MenuEjemplo</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExample\bin\Windows Phone\Debug\Content\Menus\MenuEjemplo.xnb</Output>
+      <Time>2012-06-12T23:28:03.133398+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MenuCamara.xml</Source>
+      <Name>Menus\MenuCamara</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExample\bin\Windows Phone\Debug\Content\Menus\MenuCamara.xnb</Output>
+      <Time>2012-06-14T00:43:07.9058535+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MenuParallax.xml</Source>
+      <Name>Menus\MenuParallax</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExample\bin\Windows Phone\Debug\Content\Menus\MenuParallax.xnb</Output>
+      <Time>2012-06-14T05:27:28.3496551+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{49E7702D-B2CB-4771-9FEB-0773D8750DDD}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExampleContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExample\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExample\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedExample\OverratedExample\OverratedExample\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\OverratedEngine\OverratedEngine\bin\Windows Phone\Debug\OverratedEngine.dll</Key>
+        <Value>2012-06-15T17:54:11.1640268+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-04-15T13:18:20+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-04-15T13:18:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-04-15T13:18:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-04-15T13:18:20+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-04-15T13:18:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-04-15T13:18:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-08-21T12:29:28.7246216+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
